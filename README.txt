@@ -1,3 +1,5 @@
+PLEASE CHECK THE DISCORD THREAD FOR UPDATE NOTICES, AND RE-DOWNLOAD THE MOD WHENEVER THERE'S AN UPDATE.
+
 To install this mod, click on the green "Code" button on this page, then "Download ZIP". Please rename the "PoisonCounterplays-main" folder to "PoisonCounterplays" before putting it into your mods folder.
 
 If you're poisoned, you cannot heal. This was a change made to the poison debuff in the most recent update to the game, which made certain enemies disproportionately more dangerous than before. But this change itself is still interesting and makes poison as a debuff less inconsequential, so the player simply needs a few more ways of countering poison than just Purity and Slime/Watcher Form. This mod serves to make poison a little more forgiving with the following changes.
